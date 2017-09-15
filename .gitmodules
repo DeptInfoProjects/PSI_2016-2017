@@ -1,0 +1,15 @@
+[submodule "PSI_Djema-Percelay"]
+	path = PSI_Djema-Percelay
+	url = git@github.com:DeptInfoProjects/PSI_Djema-Percelay.git
+[submodule "PSI_OceanPollution"]
+	path = PSI_OceanPollution
+	url = git@github.com:DeptInfoProjects/PSI_OceanPollution.git
+[submodule "PSI_Fantastic4-1"]
+	path = PSI_Fantastic4-1
+	url = git@github.com:DeptInfoProjects/PSI_Fantastic4-1.git
+[submodule "PSI_BERRIRI_BOUNAB_DEKEYSER"]
+	path = PSI_BERRIRI_BOUNAB_DEKEYSER
+	url = git@github.com:DeptInfoProjects/PSI_BERRIRI_BOUNAB_DEKEYSER.git
+[submodule "PSI_VanStraten_ProjetVirus"]
+	path = PSI_VanStraten_ProjetVirus
+	url = git@github.com:DeptInfoProjects/PSI_VanStraten_ProjetVirus.git
